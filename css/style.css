@@ -298,7 +298,6 @@ a:focus {
 
 .slider_section .detail-box h1 {
   font-weight: bold;
-  margin-bottom: 25px;
   color: #0F470A;
 }
 
@@ -316,7 +315,6 @@ a:focus {
   border: 1px solid #098507;
   border-radius: 5px;
   color: #ffffff;
-  margin-top: 15px;
 }
 
 .slider_section .detail-box a:hover {
