@@ -860,6 +860,13 @@ a:focus {
   width: 50%;
 }
 
+@media only screen and (max-width: 768px) {
+  .modal-content {
+    width: 90%; /* altera para largura total em telas menores que 768px */
+    margin: 15% auto; /* mantém a margem vertical de 15% */
+  }
+}
+
 .close {
   color: #aaa;
   float: right;
